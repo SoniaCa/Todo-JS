@@ -6,14 +6,12 @@
     background-color: rgba(0, 0, 0, 0);
 } 
 
-
 .check-validate {
     background-image: url("../images/icon-check.svg") ;
     background-repeat: no-repeat;
     background-position: center;
     
 }
-
 
 .p-validate {
     text-decoration: line-through;
